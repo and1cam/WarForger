@@ -1,5 +1,5 @@
 
-import { loadHeader } from "WarForger/js/ui.js";
+import { loadHeader } from "js/ui.js";
 
 let currentPage = 1;
 const itemsPerPage = 10;
