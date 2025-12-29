@@ -1,7 +1,7 @@
 export async function loadHeader() {
   
   const slot = document.getElementById("header");
-  const url = "partials/header.html";
+  const url = "WarForger/partials/header.html";
   if (!slot) return;
   
   try {
